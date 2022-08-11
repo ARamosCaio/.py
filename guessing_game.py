@@ -14,4 +14,4 @@ while (user_number != random_number):
 		print('Try again')
 	elif user_number > random_number+4 or user_number < random_number-4:
 		print('Ice cold')
-print('NICE!! it was ' , random_number)
+print('NICE!! it was' , random_number)
